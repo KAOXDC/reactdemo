@@ -1,0 +1,13 @@
+.tarjeta {
+    background-color: #666666;
+    color: aliceblue;
+    padding: 2em;
+}
+
+.bg-activo{
+    background: green;
+}
+
+.bg-inactivo{
+    background: red;
+}
